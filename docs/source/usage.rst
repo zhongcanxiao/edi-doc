@@ -6,11 +6,13 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To compile edi, first install Quantum Espresso:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ make --with-hdf5 pw
+   (.venv) $ cd EDI
+   (.venv) $ make edi.x
 
 Creating recipes
 ----------------
