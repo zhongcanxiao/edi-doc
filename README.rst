@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+EDI
+===
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the documentation of software EDI.
 
-Read the tutorial here:
+Main website: [](https://github.com/zhongcanxiao/EDIC)
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Documentation website: [](https://edi-doc.readthedocs.io)
+
