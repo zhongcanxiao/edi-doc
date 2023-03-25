@@ -1,7 +1,7 @@
 Welcome to EDI's documentation!
 ===================================
 
-**EDI** (/'edi/) is a software that performs first principle calculation of <u>E</u>lectron-Defect Interactionn.
+**EDI** (/'edi/) is a software that performs first principle calculation of <ins>E</ins>lectron-Defect Interactionn.
 It is based on DFT, and supports postprocessing of charge carrier mobility calculation
 
 Contents
