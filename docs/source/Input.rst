@@ -54,7 +54,6 @@ The detailed meaning of all variables are listed below in the table:
 variable    meaning
 ========    =========
 prefix      qe prefix
-========    =========
 outdir      qe outdir
 ========    =========
 lvacalign   vacuum aligment
