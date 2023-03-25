@@ -55,67 +55,36 @@ variable    meaning
 ========    =========
 prefix      qe prefix
 outdir      qe outdir
-========    =========
 lvacalign   vacuum aligment
-========    =========
 vac_idx    vacuum alignment location
-========    =========
 lcorealign  core alignment
-========    =========
 core_v_d   core alignment value for defect
-========    =========
 core_v_p   core alignment value for pristine
-========    =========
 wt_filename weight file
-========    =========
 klist_filename
-========    =========
 ev_filename
-========    =========
 noncolin 
-========    =========
 lspinorb 
-========    =========
 calcmlocal 
-========    =========
 calcmnonlocal 
-========    =========
 V_d_filename
-========    =========
 Bxc_1_d_filename
-========    =========
 Bxc_2_d_filename
-========    =========
 Bxc_3_d_filename
-========    =========
 V_p_filename
-========    =========
 Bxc_1_p_filename
-========    =========
 Bxc_2_p_filename
-========    =========
 Bxc_3_p_filename
-========    =========
 calcmcharge
-========    =========
 mcharge_dolfa
-========    =========
 qeh_eps_filename
-========    =========
 eps_type
-========    =========
 eps_type
-========    =========
 doqeh
-========    =========
 dogwfull
-========    =========
 dogwdiag
-========    =========
 k0screen_read
-========    =========
 gw_epsmat_filename
-========    =========
 gw_eps0mat_filename
 ========    =========
 
