@@ -10,22 +10,16 @@ An example input file is shown below:
     &calcmcontrol
     prefix='mos2',
     outdir='dout/'
-    
     lvacalign=.true.
     vac_idx=0
     lcorealign=.false.
     core_v_d=0.0
     core_v_p=0.0 
-    
-    
     wt_filename='wt.dat'
     klist_filename='scfklist.dat'
     ev_filename='v.dat'
-    
-    
     noncolin =.true.
     lspinorb =.true.
-    
     calcmlocal = .true.
     calcmnonlocal = .true.
     V_d_filename='./V_d.dat'
@@ -36,13 +30,8 @@ An example input file is shown below:
     Bxc_1_p_filename='./Bxc_1_p.dat'
     Bxc_2_p_filename='./Bxc_2_p.dat'
     Bxc_3_p_filename='./Bxc_3_p.dat'
-    
-    
-    
-    
     calcmcharge=.true.
     mcharge_dolfa=.true.
-    
     qeh_eps_filename='./eps.dat'
     eps_type='gw'
     eps_type='qeh'
@@ -64,21 +53,21 @@ The detailed meaning of all variables are listed below in the table:
 ========    =========
 variable    meaning
 ========    =========
-prefix
+prefix      qe prefix
 ========    =========
-outdir
+outdir      qe outdir
 ========    =========
-lvacalign
+lvacalign   vacuum aligment
 ========    =========
-vac_idx
+vac_idx    vacuum alignment location
 ========    =========
-lcorealign
+lcorealign  core alignment
 ========    =========
-core_v_d
+core_v_d   core alignment value for defect
 ========    =========
-core_v_p
+core_v_p   core alignment value for pristine
 ========    =========
-wt_filename
+wt_filename weight file
 ========    =========
 klist_filename
 ========    =========
